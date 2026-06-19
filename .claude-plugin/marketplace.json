@@ -1,0 +1,20 @@
+{
+  "name": "agorines-personal",
+  "description": "Personal Claude Code plugins for agorines-stratio",
+  "owner": {
+    "name": "agorines-stratio"
+  },
+  "plugins": [
+    {
+      "name": "github-search",
+      "source": "./plugins/github-search",
+      "description": "Search code in GitHub repositories using the GitHub MCP",
+      "version": "1.0.0",
+      "author": {
+        "name": "agorines-stratio"
+      },
+      "category": "developer-tools",
+      "keywords": ["github", "search", "code", "stratio"]
+    }
+  ]
+}

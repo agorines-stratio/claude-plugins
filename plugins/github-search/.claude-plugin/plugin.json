@@ -1,0 +1,8 @@
+{
+  "name": "github-search",
+  "description": "Search code in GitHub repositories using the GitHub MCP",
+  "version": "1.0.0",
+  "author": { "name": "agorines-stratio" },
+  "category": "developer-tools",
+  "keywords": ["github", "search", "code", "stratio"]
+}
